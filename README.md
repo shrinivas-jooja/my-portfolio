@@ -27,33 +27,36 @@ Electronics and embedded systems enthusiast with expertise in microcontroller pr
 
 ### Featured Projects
 
-1. **STM32 Advanced Embedded Systems**
-   - Multi-peripheral integration
-   - Real-time embedded applications
-   - Hardware optimization techniques
+1. **SmartTAG – Smart Lost & Found System**
+   - Developed a SmartTag system using dynamic QR codes for student item identification and a web app for verification.
+   - Integrated SMS notifications to alert parents when lost items are found.
+   - **Technologies**: Dynamic QR Code, Cloud Database, Web Application, SMS API.
 
-2. **Arduino-based IoT Solutions**
-   - Sensor integration and data processing
-   - Wireless communication modules
-   - Real-time monitoring systems
+2. **AI-Powered PDF Learning Assistant (Ongoing)**
+   - RAG-based AI platform to answer questions from uploaded PDF documents.
+   - Implemented semantic document retrieval using ChromaDB and sentence embeddings with a FastAPI backend.
+   - **Technologies**: React.js, FastAPI, Python, ChromaDB, Sentence Transformers, REST API.
 
-3. **Digital Logic Implementation**
-   - Logic gate designs
-   - Sequential circuit development
-   - Hardware verification
+3. **Smart Car Parking Management System**
+   - Automated smart parking system using Arduino UNO, IR sensors, 20x4 LCD, and servo motor.
+   - Real-time parking slot detection and automatic gate control.
+   - **Technologies**: Arduino UNO, Embedded C, IR Sensors, 20×4 I2C LCD, MG995 Servo Motor.
+
+📄 **View my full resume here**: [resume.md](./resume.md)
 
 ## 🔗 Connect With Me
 
 - **GitHub**: [@shrinivas-jooja](https://github.com/shrinivas-jooja)
-- **LinkedIn**: [Add your LinkedIn profile]
-- **Email**: [Add your email]
+- **LinkedIn**: [shrinivas-jooja](https://linkedin.com/in/shrinivas-jooja)
+- **Email**: [shrinivasjooja7@gmail.com](mailto:shrinivasjooja7@gmail.com)
 
 ## 📚 Learning & Development
 
-- Advanced STM32 microcontroller applications
-- Real-time operating systems (RTOS)
-- Embedded systems optimization
-- Hardware-software integration
+- Advanced STM32 microcontroller applications & RTOS
+- AI/ML models & Retrieval-Augmented Generation (RAG)
+- Web development & cloud-database integration
+- Hardware-software co-design
+
 
 ## 📊 Repository Statistics
 

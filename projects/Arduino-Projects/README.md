@@ -23,7 +23,13 @@ Innovative Arduino-based projects leveraging open-source microcontroller platfor
 
 ## Featured Projects
 
-### Project 1: Arduino-based Environmental Monitor
+### Project 1: Smart Car Parking Management System using Arduino and IR Sensors
+- **Description**: Automated smart parking system using Arduino UNO, IR sensors, a 20×4 I2C LCD, and a servo motor. Implemented real-time parking slot detection, LCD status display, and automatic gate control.
+- **Board**: Arduino UNO
+- **Sensors & Actuators**: IR Sensors, 20×4 I2C LCD, MG995 Servo Motor
+- **Technologies/Environment**: Embedded C, Arduino IDE
+
+### Project 2: Arduino-based Environmental Monitor
 - Status: Active Development
 - Board: Arduino UNO/Mega
 - Sensors: DHT22, BMP280, MQ-135
