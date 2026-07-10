@@ -32,10 +32,11 @@ Electronics and embedded systems enthusiast with expertise in microcontroller pr
    - Integrated SMS notifications to alert parents when lost items are found.
    - **Technologies**: Dynamic QR Code, Cloud Database, Web Application, SMS API.
 
-2. **AI-Powered PDF Learning Assistant (Ongoing)**
-   - RAG-based AI platform to answer questions from uploaded PDF documents.
-   - Implemented semantic document retrieval using ChromaDB and sentence embeddings with a FastAPI backend.
-   - **Technologies**: React.js, FastAPI, Python, ChromaDB, Sentence Transformers, REST API.
+2. **Memory Timeline AI – Personalized Learning Operating System (Ongoing)**
+   - Developing an AI-powered personalized learning platform that enables users to build a searchable knowledge base.
+   - Built a modular RAG architecture to support conversation memory, timeline-based learning, and context-aware retrieval.
+   - **Technologies**: React, FastAPI, ChromaDB, Ollama/Gemini, Python.
+
 
 3. **Smart Car Parking Management System**
    - Automated smart parking system using Arduino UNO, IR sensors, 20x4 LCD, and servo motor.

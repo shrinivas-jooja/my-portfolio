@@ -14,11 +14,9 @@ This directory contains projects focusing on web applications, cloud databases, 
 
 ---
 
-### 2. AI-Powered PDF Learning Assistant *(Ongoing)*
-*   **Description**: An AI-powered platform that allows users to upload PDF documents and ask questions about the content in real time. Implements Retrieval-Augmented Generation (RAG) for accurate semantic search.
+### 2. Memory Timeline AI – Personalized Learning Operating System *(Ongoing)*
+*   **Description**: An AI-powered personalized learning platform that enables users to build a searchable knowledge base from documents and learning resources. Designed with a long-term vision of becoming a lifelong AI learning companion that remembers, organizes, and helps users revise their knowledge over time.
 *   **Key Features**:
-    *   FastAPI backend for uploading, processing, and parsing PDF documents.
-    *   Retrieval-Augmented Generation (RAG) using sentence embeddings to retrieve relevant text segments.
-    *   Vector database storage via ChromaDB.
-    *   Responsive React.js frontend interface.
-*   **Technologies**: React.js, FastAPI, Python, ChromaDB, Sentence Transformers, REST API
+    *   Retrieval-Augmented Generation (RAG) pipeline using semantic search and vector embeddings to provide context-aware answers.
+    *   Modular architecture designed to support conversation memory, timeline-based learning, and personalized knowledge retrieval.
+*   **Technologies**: React, FastAPI, ChromaDB, Ollama/Gemini, Python

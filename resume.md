@@ -17,7 +17,7 @@ B.E. Electronics and Communication Engineering student with hands-on experience 
 ## 🎓 Education
 
 *   **P. E. S College of Engineering, Mandya**  
-    *B.E. Electronics and Communication Engineering | Final Year | CGPA: 7.90*
+    *B.E. Electronics and Communication Engineering | Final Year | CGPA: 7.9*
 *   **Sangameshwar P U Science College, Bagalkot**  
     *Pre-University [PCMC] | Percentage: 93.00%*
 *   **M.H Adin High School Guledagudda**  
@@ -55,11 +55,12 @@ B.E. Electronics and Communication Engineering student with hands-on experience 
 *   Integrated SMS notifications to alert parents when lost items are found.
 *   Designed a scalable digital solution for school lost-and-found management.
 
-### **AI-Powered PDF Learning Assistant** *(Ongoing)*
-*   **Technologies**: React.js, FastAPI, Python, ChromaDB, Sentence Transformers, REST API
-*   Developed an AI-powered platform to answer questions from uploaded PDF documents.
-*   Implemented RAG using ChromaDB and sentence embeddings for accurate document retrieval.
-*   Built a FastAPI backend for PDF upload, processing, and semantic search.
+### **Memory Timeline AI – Personalized Learning Operating System** *(Ongoing)*
+*   **Technologies**: React, FastAPI, ChromaDB, Ollama/Gemini, Python
+*   Developing an AI-powered personalized learning platform that enables users to build a searchable knowledge base from documents and learning resources.
+*   Implemented a Retrieval-Augmented Generation (RAG) pipeline using semantic search and vector embeddings to provide context-aware answers.
+*   Built a modular architecture using React, FastAPI, ChromaDB, and Ollama/Gemini, designed to support conversation memory, timeline-based learning, and personalized knowledge retrieval.
+*   Designed the system with a long-term vision of becoming a lifelong AI learning companion that remembers, organizes, and helps users revise their knowledge over time.
 
 ### **Smart Car Parking Management System using Arduino and IR Sensors**
 *   **Technologies**: Arduino UNO, Embedded C, IR Sensors, 20×4 I2C LCD, MG995 Servo Motor, Arduino IDE
